@@ -20,7 +20,8 @@ height: 100vh;
     top:0;
     left:50%;
     transform: translateX(-50%);
-    background-color: white;
+    
+    background-color:wheat;
     padding : 0px 30px;
     padding-bottom: 10px;
     text-transform: uppercase;
