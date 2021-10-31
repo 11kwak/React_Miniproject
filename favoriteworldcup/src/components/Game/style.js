@@ -36,7 +36,7 @@ height: 100vh;
 }
 
 .food-img:hover{
-    transform: scale(1.1);
+    transform: scale(1.2);
     opacity: 0.8;
 
 }
