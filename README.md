@@ -28,5 +28,5 @@
 - useState
 - useEffect
 - map
-- ~~I like Holybang ㅎ_ㅎ~
+- ~~I like Holybang ㅎ_ㅎ~~
 <br/>
