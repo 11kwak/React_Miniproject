@@ -9,7 +9,7 @@
 
 
 -------------------------------------------------------------
-### ** 1.To Do List **
+### **To Do List**
 - Insert (onSubmit)
 - Delete (filter)
 - Update (onToggle)
@@ -24,7 +24,7 @@
 <br/>
 
 -------------------------------------------------------------
-### ** 2. Favorite Worldcup **
+### **Favorite Worldcup**
 -
 -
 -
