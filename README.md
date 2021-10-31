@@ -30,8 +30,6 @@
 - map
 - ~~I like Holybang ㅎ_ㅎ~~
 <br/>
-![favoriteworldcup](favoriteworldcup/src/img/favoriteworldcup.gif)
-
 <p align="center">
-  <img src="favoriteworldcup/src/img/favoriteworldcup.gif" width="350" title="hover text">
+  <img src="favoriteworldcup/src/img/favoriteworldcup.gif" title="hover text">
 </p>
