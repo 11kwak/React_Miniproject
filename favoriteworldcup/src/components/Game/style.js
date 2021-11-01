@@ -7,7 +7,7 @@ height: 100vh;
 
 .flex-1{
     flex:1;
-    min-width: 500px;
+    min-width: 800px;
     overflow: hidden;
     background-color: black;
     position: relative;
@@ -36,7 +36,7 @@ height: 100vh;
 }
 
 .food-img:hover{
-    transform: scale(1.2);
+    transform: scale(1.1);
     opacity: 0.8;
 
 }
@@ -44,7 +44,8 @@ height: 100vh;
 .name{
     position: absolute;
     z-index: 3;
-    color: white;
+    background-color: wheat;
+    color: black;
     bottom:10%;
     font-size: 70px;
     left:50%;

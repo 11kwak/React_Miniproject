@@ -4,20 +4,20 @@ import { FlexBox } from "./style";
 const items = [
 
     {
-        name: "Hook",
-        src: require("../../img/Hook.gif").default
+        name: "빈지노",
+        src: require("../../img/beenzino.jpeg").default
     },
     {
-        name: "CocaNButter",
-        src: require("../../img/CocaNButter.gif").default
+        name: "박재범",
+        src: require("../../img/park.jpeg").default
     },
     {
-        name: "Holybang",
-        src: require("../../img/Holybang.gif").default
+        name: "더콰이엇",
+        src: require("../../img/theq.jpeg").default
     },
     {
-        name: "Lachica",
-        src: require("../../img/Lachica.gif").default
+        name: "지코",
+        src: require("../../img/zico.jpeg").default
     }
 ];
 
@@ -61,7 +61,7 @@ const Game = () => {
 
 
     return <FlexBox>
-        <h1 className="title">스우파 명장면 월드컵</h1>
+        <h1 className="title">래퍼 이상형 월드컵</h1>
         {displays.map((d) => {
             return (<div className="flex-1" key={d.name} onClick={clickHandler(d)}>
                 <img className="food-img" src={d.src}></img>
