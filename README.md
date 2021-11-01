@@ -35,3 +35,19 @@
 <p align="center">
   <img src="" title="hover text">
 </p> -->
+
+-------------------------------------------------------------
+### **Sing Up & Sign in**
+- react bootstrap
+- bootswatch
+- font-awesome cdn
+- react-google-login
+<br/>
+
+![signup2](https://user-images.githubusercontent.com/87745990/139707155-698b2dea-0695-4f21-94d2-4f85b079c1f0.gif)
+
+
+
+
+<br/>
+
