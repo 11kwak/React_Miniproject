@@ -16,7 +16,7 @@
 <br/>
 
 ![React_Todolist](https://user-images.githubusercontent.com/87745990/139085144-dd21ed61-a694-444e-8189-db67d96bf02d.gif)
-![favoriteworldcup7](https://user-images.githubusercontent.com/87745990/139610553-2fa41773-32b6-4230-abd6-730b6199a4ae.gif)
+
 
 
 
@@ -28,9 +28,10 @@
 - useState
 - useEffect
 - map
+
+![favoriteworldcup7](https://user-images.githubusercontent.com/87745990/139610553-2fa41773-32b6-4230-abd6-730b6199a4ae.gif)
 <!-- - ~~I like Holybang ㅎ_ㅎ~~
 <br/>
 <p align="center">
   <img src="" title="hover text">
 </p> -->
-
