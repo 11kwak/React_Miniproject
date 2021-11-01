@@ -11,7 +11,6 @@ height: 100vh;
     overflow: hidden;
     background-color: black;
     position: relative;
-    
 }
 
 .title{
