@@ -30,3 +30,6 @@
 - map
 - ~~I like Holybang ㅎ_ㅎ~~
 <br/>
+<p align="center">
+  <img src="favoriteworldcup/src/img/favoriteworldcup.gif" title="hover text">
+</p>
