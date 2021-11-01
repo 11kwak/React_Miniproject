@@ -7,7 +7,7 @@ height: 100vh;
 
 .flex-1{
     flex:1;
-    min-width: 800px;
+    min-width: 400px;
     overflow: hidden;
     background-color: black;
     position: relative;
@@ -22,7 +22,7 @@ height: 100vh;
     transform: translateX(-50%);
     
     background-color:wheat;
-    padding : 0px 30px;
+    padding : 0px 10px;
     padding-bottom: 10px;
     text-transform: uppercase;
 
@@ -47,7 +47,7 @@ height: 100vh;
     background-color: wheat;
     color: black;
     bottom:10%;
-    font-size: 70px;
+    font-size: 30px;
     left:50%;
     transform: translateX(-50%);
 
