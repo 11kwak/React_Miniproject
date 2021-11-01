@@ -44,7 +44,7 @@
 - react-google-login
 <br/>
 
-![signup1](https://user-images.githubusercontent.com/87745990/139706912-3b8e1573-bcb5-407f-ad11-7923c54c46b5.gif)
+![signup2](https://user-images.githubusercontent.com/87745990/139707155-698b2dea-0695-4f21-94d2-4f85b079c1f0.gif)
 
 
 
