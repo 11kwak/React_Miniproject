@@ -54,7 +54,7 @@
 -------------------------------------------------------------
 ### **Blog Features**
 - useState
-- event handling
+- handling events
 
 <br/>
 
