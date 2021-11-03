@@ -10,9 +10,8 @@
 
 -------------------------------------------------------------
 ### **To Do List**
-- Insert (onSubmit)
-- Delete (filter)
-- Update (onToggle)
+- scss
+- useState
 <br/>
 
 ![React_Todolist](https://user-images.githubusercontent.com/87745990/139085144-dd21ed61-a694-444e-8189-db67d96bf02d.gif)
@@ -60,6 +59,26 @@
 
 ![blog](https://user-images.githubusercontent.com/87745990/139802536-3d514140-a052-4d9c-9253-91c457c4cb08.gif)
 
+
+<br/>
+
+-------------------------------------------------------------
+### **Voca**
+- useState, useEffect, map
+- react-router-dom
+- fetch(), json-server, REST API
+- useHistory
+- custom hooks
+- typescript
+
+<br/>
+
+![move](https://user-images.githubusercontent.com/87745990/140032298-50907e90-b8ad-4948-befb-2b3f3972fcff.gif)
+
+
+![put](https://user-images.githubusercontent.com/87745990/140032328-4fe384ab-d7d5-428f-984b-62d3afbcd3d6.gif)
+
+![last](https://user-images.githubusercontent.com/87745990/140032361-f9247703-782b-4002-9ee8-0e16a990af14.gif)
 
 <br/>
 
