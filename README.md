@@ -81,4 +81,19 @@
 ![last](https://user-images.githubusercontent.com/87745990/140032361-f9247703-782b-4002-9ee8-0e16a990af14.gif)
 
 <br/>
+-------------------------------------------------------------
+### **Where Going**
+- useState, map
+- react-router-dom
+
+<br/>
+
+![초안](https://user-images.githubusercontent.com/87745990/144743760-58433254-6a13-4bc9-a207-f6365d64e17e.gif)
+
+<br/>
+
+
+
+
+
 
